@@ -1,6 +1,9 @@
 # Grill Data
 *.db
 
+#Configs
+config
+
 # Logs
 logs
 *.log
