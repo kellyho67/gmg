@@ -1,4 +1,6 @@
 # Green Mountain Grills App
+update: 05/14/2020 - This fork has been updated with the latest modules and also fixed for compatibility changes.
+update: 05/15/2020 - Docker build is still failing but under efforts to fix.
 
 ### This project is a silly alternative to the Green Mountain Grills mobile app.
 
