@@ -1,15 +1,12 @@
 import React, { Component } from 'react'
 import './index.css'
 import 'typeface-roboto'
-import {MuiThemeProvider} from 'material-ui/styles/MuiThemeProvider'
-//import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider'
-import {getMuiTheme} from 'material-ui/styles/getMuiTheme'
-//import getMuiTheme from 'material-ui/styles/g'
+import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider'
 import gmgTheme from '../../theme/gmgTheme'
+import getMuiTheme from 'material-ui/styles/getMuiTheme'
 import Home from '../Home'
 // import AppBar from 'material-ui/AppBar'
 import Navigation from '../Navi'
-import styles from '../HomeControls/styles'
 
 export default class App extends Component {
   constructor(props) {
