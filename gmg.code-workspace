@@ -12,6 +12,9 @@
 		{
 			"path": ".",
 			"name": "root"
+		},
+		{
+			"path": "src"
 		}
 	],
 	"settings": {}
